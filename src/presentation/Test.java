@@ -21,7 +21,7 @@ public class Test {
 //		
 //		ms.delete(ms.findById(1));
 //		
-//		System.out.println("Liste des machines après suppression : ");
+//		System.out.println("Liste des machines aprï¿½s suppression : ");
 //		for(Machine m : ms.findAll()) {
 //			System.out.println(m);
 //		}
@@ -31,11 +31,11 @@ public class Test {
 //		
 //		ms.update(machine);
 //		
-//		System.out.println("Liste des machines après modification : ");
+//		System.out.println("Liste des machines aprï¿½s modification : ");
 //		for(Machine m : ms.findAll()) {
 //			System.out.println(m);
 //		}
 //		
-//	}
+//	}modification
 
 }
